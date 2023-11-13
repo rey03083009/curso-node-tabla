@@ -1,5 +1,5 @@
 # Notas:
-Este es mi rpimer programa en Node
+Este es mi primer programa en Node, (TABLA DE MULTIPLICAR)
 
 ```
 Opciones:
